@@ -1,0 +1,1 @@
+We can use this SQLite commands in command line shell for sqlite or direcly in 'Execute SQL' tab of DB browser for sqlite to insert or retrieve data.

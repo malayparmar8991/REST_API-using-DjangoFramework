@@ -1,0 +1,1 @@
+The files insert_data.py and retrieve_data.py are associated to the 3rd point of Task Breakdown as mentioned in the mail which contains implementation of SQLite queries using Python code.
